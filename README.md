@@ -31,7 +31,7 @@
 
 #### Languages
 + English (B2)
-+ Spanish (B1)
++ Spanish (B2)
 + Russian (native)
 + Italian (A1) 
 
