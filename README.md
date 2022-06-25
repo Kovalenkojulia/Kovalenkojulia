@@ -11,12 +11,9 @@
 + Bootstrap
 + Grid
 + FlexBox
-+ Markdown
 + Git/Github
 + Java Script
 + Python / Flask
-+ Dart / Flutter
-+ Nod.js
 + Postgresql
 + MongoDB
 + Heroku
@@ -33,7 +30,8 @@
 + English (B2)
 + Spanish (B2)
 + Russian (native)
-+ Italian (A1) 
++ Italian (A2) 
++ French (A1)
 
 
 
