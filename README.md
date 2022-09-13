@@ -12,7 +12,7 @@
 + Grid
 + FlexBox
 + Git/Github
-+ Java Script
++ JavaScript
 + Python / Flask
 + Postgresql
 + MongoDB
