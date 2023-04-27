@@ -1,6 +1,6 @@
 # Hello, 
 ## I'm Yulia Kovalenko
-## Frontend and Software devloper.
+## Frontend devloper.
 ***
 ---
 ### About me
@@ -13,10 +13,6 @@
 + FlexBox
 + Git/Github
 + JavaScript
-+ Python / Flask
-+ Postgresql
-+ MongoDB
-+ Heroku
 + Agile/SCRUM
 ---
 #### Soft Skills
